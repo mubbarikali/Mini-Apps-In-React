@@ -3,14 +3,15 @@ import React from 'react'
 // import UseState from './components/hooks/UseState'
 // import UseEffect from './components/hooks/UseEffect'
 // import UseReducer from './components/hooks/UseReducer'
-import ToDo from './components/todoreact/ToDo'
+// import ToDo from './components/todoreact/ToDo'
+import Temp from './components/weather/Temp'
 
 
 const App = () => {
   return (
     <div>
       
-        <ToDo />
+        <Temp />
         
 
     </div>
